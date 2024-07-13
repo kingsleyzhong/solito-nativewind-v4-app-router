@@ -3,3 +3,5 @@ This is a fork from [solito-nativewind-v4](https://github.com/mikevocalz/solito-
 - Update NextJS to 14.2.3
 - Change `pages` router to `app` router
 - Use `solito/navigation`
+- Upgraded to Expo 51
+- Added a default eas.json for developmental builds
